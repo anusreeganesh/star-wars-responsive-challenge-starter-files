@@ -1,0 +1,51 @@
+main {
+  padding-top: 0px;
+}
+
+header {
+  height:200px;
+  background-color: orange;
+  position: fixed;
+  text-align: center;
+  width: 100%;
+}
+
+.row {
+  margin-bottom: 20px;
+  padding-top: 220px;
+}
+
+.box {
+    height: 200px;
+    padding-top: 30px;
+}
+
+.chewbacca {
+    background-image: url("../images/chewbacca_square.png");
+    background-size: cover;
+}
+
+.finn {
+    background-image: url("../images/finn_square.png");
+    background-size: cover;
+}
+
+.kylo {
+    background-image: url("../images/kylo_square.png");
+    background-size: cover;
+}
+
+.poe {
+    background-image: url("../images/poe_square.png");
+    background-size: cover;
+}
+
+.rey {
+    background-image: url("../images/rey_square.png");
+    background-size: cover;
+}
+
+.yoda {
+    background-image: url("../images/yoda_square.png");
+    background-size: cover;
+}
